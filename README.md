@@ -23,3 +23,10 @@ Setelah itu hubungan file HTML dengan file CSS dengan cara memasukan tag link pa
 
 Dan untuk hasilnya seperti gambar dibawah ini.
 ![screenshoot 6](screenshoot/ss6.png)
+
+4. Dan yang terakhir Mendeklarasikan CSS Menggunakan Selector.
+Untuk kode nya seperti gambar dibawah ini, saya sedikit menambahkan background image agar lebih menarik pada tag body.
+![screenshoot 7](screenshoot/ss7.png)
+
+Dan hasil nya seperti gambar di bawah ini.
+![screenshoot 8](screenshoot/ss8.png)
