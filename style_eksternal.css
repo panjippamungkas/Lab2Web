@@ -11,4 +11,35 @@ padding:10px 20px;
 nav .active,
 nav a:hover {
 background: #6398dd;
-    }
+}
+
+body
+{
+background-image: url(screenshoot/wallpaper.jpg);
+background-size: auto;
+background-repeat: no-repeat;
+}
+/* ID Selector */
+#intro {
+border: 3px solid #920992;
+min-height: 100px;
+padding: 10px;
+}
+
+#intro h1 {
+text-align: left;
+border: 0;
+color: #fff;
+}
+/* Class Selector */
+.button {
+padding: 15px 20px;
+background: #bebcbd;
+color: #fff;
+display: inline-block;
+margin: 10px;
+text-decoration: none;
+}
+.btn-primary {
+background: #E42A42;
+}
