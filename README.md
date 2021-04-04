@@ -5,3 +5,6 @@
 ### Langkah - Langkah Pembuatan
 Memasukan tag HTML 5 dengan code seperti gambar di bawah ini
 ![screenshoot 1](screenshoot/ss1.png)
+
+Kemudian menambahkan Deklarasi CSS internal pada bagian Head HTML
+![screenshoot 2](screenshoot/ss2.png)
