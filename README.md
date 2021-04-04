@@ -4,4 +4,4 @@
 
 ### Langkah - Langkah Pembuatan
 Memasukan tag HTML 5 dengan code seperti gambar di bawah ini
-![screenshoot 1](screenshoot/ss1.png)
+![screenshoot 1](Screenshoot/ss1.png)
