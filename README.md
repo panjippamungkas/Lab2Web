@@ -4,4 +4,4 @@
 
 ### Langkah - Langkah Pembuatan
 Memasukan tag HTML 5 dengan code seperti gambar di bawah ini
-![Gambar 1](Lab2Web/Lab2Web/ss1.png)
+![Gambar 1](Lab2Web/ss1.png)
