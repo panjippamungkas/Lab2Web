@@ -30,3 +30,22 @@ Untuk kode nya seperti gambar dibawah ini, saya sedikit menambahkan background i
 
 Dan hasil nya seperti gambar di bawah ini.
 ![screenshoot 8](screenshoot/ss8.png)
+
+### Pertanyaan dan Tugas
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf" )
+
+#### Jawaban
+1. Disni saya menggunakan atribut pada background yang membuat background img mengikuti ukuran dari lebar halaman browser.
+![screenshoot 9](screenshoot/ss9.png)
+
+Dan Hasil nya seperti ini.
+![screenshoot 10](screenshoot/ss10.png)
+
+2. h1 itu di gunakan untuk seluruh tag h1, sedangkan #intro h1 di gunakan untuk h1 yang memiliki id #intro
+
+3. Yang akan tampil lebih dulu adalah CSS secara internal karena Perubahan hanya terjadi pada 1 halaman Class dan ID bisa digunakan oleh internal stylesheet Tidak perlu meng-upload beberapa file karena HTML dan CSS bisa digunakan di file yang sama. Jika CSS Eksternal Halaman belum tampil secara sempurna hingga file CSS selesai dipanggil. jika menggunakan Inline CSS sangat tidak direkomendasikan karena harus Inline CSS harus diterapkan pada setiap elemen walaupun sangat simpel untuk perbaikan cepat.
+
+4. Perbedaan dari class dan id adalah kelebihan unggul dari class yaitu dapat diberikan pada banyak element html dan dapat dipanggil sekaligus sedangkan id hanya dapat bekerja pada satu penandaan saja, maksudnya satu nama id hanya bisa id berikan pada satu element.
